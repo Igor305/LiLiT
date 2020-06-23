@@ -1,0 +1,12 @@
+C:\Clown\LiLiT\LiLiT\LiLiT\bin\Debug\netcoreapp3.1\LiLiT.exe
+C:\Clown\LiLiT\LiLiT\LiLiT\bin\Debug\netcoreapp3.1\LiLiT.deps.json
+C:\Clown\LiLiT\LiLiT\LiLiT\bin\Debug\netcoreapp3.1\LiLiT.runtimeconfig.json
+C:\Clown\LiLiT\LiLiT\LiLiT\bin\Debug\netcoreapp3.1\LiLiT.runtimeconfig.dev.json
+C:\Clown\LiLiT\LiLiT\LiLiT\bin\Debug\netcoreapp3.1\LiLiT.dll
+C:\Clown\LiLiT\LiLiT\LiLiT\bin\Debug\netcoreapp3.1\LiLiT.pdb
+C:\Clown\LiLiT\LiLiT\LiLiT\obj\Debug\netcoreapp3.1\LiLiT.csprojAssemblyReference.cache
+C:\Clown\LiLiT\LiLiT\LiLiT\obj\Debug\netcoreapp3.1\LiLiT.AssemblyInfoInputs.cache
+C:\Clown\LiLiT\LiLiT\LiLiT\obj\Debug\netcoreapp3.1\LiLiT.AssemblyInfo.cs
+C:\Clown\LiLiT\LiLiT\LiLiT\obj\Debug\netcoreapp3.1\LiLiT.dll
+C:\Clown\LiLiT\LiLiT\LiLiT\obj\Debug\netcoreapp3.1\LiLiT.pdb
+C:\Clown\LiLiT\LiLiT\LiLiT\obj\Debug\netcoreapp3.1\LiLiT.genruntimeconfig.cache
